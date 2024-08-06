@@ -1,0 +1,14 @@
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\bin\Debug\net8.0\Number Analyzer Lab Day 2.exe
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\bin\Debug\net8.0\Number Analyzer Lab Day 2.deps.json
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\bin\Debug\net8.0\Number Analyzer Lab Day 2.runtimeconfig.json
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\bin\Debug\net8.0\Number Analyzer Lab Day 2.dll
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\bin\Debug\net8.0\Number Analyzer Lab Day 2.pdb
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\Number Analyzer Lab Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\Number Analyzer Lab Day 2.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\Number Analyzer Lab Day 2.AssemblyInfo.cs
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\Number Analyzer Lab Day 2.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\Number Analyzer Lab Day 2.dll
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\refint\Number Analyzer Lab Day 2.dll
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\Number Analyzer Lab Day 2.pdb
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\Number Analyzer Lab Day 2.genruntimeconfig.cache
+C:\Users\imper\source\repos\Number Analyzer Lab Day 2\Number Analyzer Lab Day 2\obj\Debug\net8.0\ref\Number Analyzer Lab Day 2.dll
